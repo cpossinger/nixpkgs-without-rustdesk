@@ -1009,7 +1009,6 @@
   ./services/monitoring/riemann-dash.nix
   ./services/monitoring/riemann-tools.nix
   ./services/monitoring/riemann.nix
-  ./services/monitoring/rustdesk-server.nix
   ./services/monitoring/scollector.nix
   ./services/monitoring/scrutiny.nix
   ./services/monitoring/smartd.nix
